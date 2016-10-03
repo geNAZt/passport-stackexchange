@@ -1,6 +1,6 @@
 {
     "name": "passport-stackexchange",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "description": "StackExchange authentication strategy for Passport.",
     "keywords": ["passport", "stackexchange", "auth", "authn", "authentication", "identity"],
     "repository": {
@@ -21,7 +21,7 @@
     "main": "./lib/passport-stackexchange",
     "dependencies": {
         "pkginfo": "0.2.x",
-        "passport-oauth": "0.1.x",
+        "passport-oauth": "1.0.x",
         "request": "2.1.x"
     },
     "devDependencies": {
